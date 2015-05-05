@@ -41,3 +41,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.cache
+*.exe
+*.pdb
+ChronoSpace/bin/*
+ChronoSpace/obj/*
+ChronoSpaceContent/bin/*
+ChronoSpaceContent/obj/*
